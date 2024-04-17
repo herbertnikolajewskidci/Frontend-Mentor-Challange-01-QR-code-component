@@ -26,8 +26,8 @@ main {
 .card {
     background-color: var(--color-white);
     border-radius: 1rem;
-    box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.477);
-    padding: 2rem;
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.477);
+    padding: 1rem;
     width: 300px;
     text-align: center;
 }
